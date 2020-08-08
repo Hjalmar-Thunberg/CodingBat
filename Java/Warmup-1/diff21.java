@@ -7,4 +7,4 @@ public int diff21(int n) {
     else {
       return (n - 21) * 2;
     }
-  }  
+}  
