@@ -2,5 +2,5 @@
 // element and the last element are equal.
 
 public boolean sameFirstLast(int[] nums) {
-    return nums.length > 0 && nums[0] == nums[nums.length - 1];
+    return nums.length > 0 && nums[0] == nums[nums.length-1];
 }

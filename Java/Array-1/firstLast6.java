@@ -2,5 +2,5 @@
 // will be length 1 or more.
 
 public boolean firstLast6(int[] nums) {
-    return nums[0] == 6 || nums[nums.length - 1] == 6;
+    return nums[0] == 6 || nums[nums.length-1] == 6;
 }
